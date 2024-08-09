@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Enterprise Active Directory Lab</b>
-  - [Active Directory Lab](https://github.com/EdwardHiggins01/LABURL)
+  - [Active Directory Lab](https://github.com/EdwardHiggins01/Active-Directory-Lab)
 
 
 <h2>📺 Certifications</h2>
