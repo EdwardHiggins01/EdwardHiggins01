@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edward! <a href="https://www.linkedin.com/in/edwardhiggins01/">Information Technology Professional</a>,
+<h1>Hi, I'm Edward! <a href="https://www.linkedin.com/in/edwardhiggins01/">Information Technology Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
