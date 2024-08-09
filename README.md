@@ -1,7 +1,27 @@
-## Hi there 👋
+<h1>Hi, I'm Edward! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>,
+
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>Enterprise Active Directory Lab</b>
+  - [Active Directory Lab](https://github.com/EdwardHiggins01/LABURL)
+
+
+<h2>📺 Certifications</h2>
+
+- [CompTIA A+ Certification](https://www.credly.com/badges/0c274521-c705-4fbb-927f-f84eab035d27)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="EdwardHiggins | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]:https://www.linkedin.com/in/edwardhiggins01/
 
 <!--
-**EdwardHiggins01/EdwardHiggins01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
