@@ -10,9 +10,6 @@
 
 - [CompTIA A+ Certification](https://www.credly.com/badges/0c274521-c705-4fbb-927f-f84eab035d27)
 
-<h2> Other Projects</h2>
-
-- <b>Microsoft Excel Automated Yearly Budget Sheet</b>
 
 <h2> 🤳 Connect with me:</h2>
 
